@@ -1,19 +1,19 @@
 # Makefile.msc -- Makefile for MS-VC++ (-*- makefile -*-)
 #
-# Copyright (C) 2003 Raymond Penners <raymond@dotsphinx.com>
+# Copyright (C) 2003, 2004 Raymond Penners <raymond@dotsphinx.com>
 #
-# $Id: Makefile.msc,v 1.1 2003/08/20 00:07:23 dotsphinx Exp $
+# $Id: Makefile.msc,v 1.2 2004/03/20 11:42:29 dotsphinx Exp $
 
 !INCLUDE ../Makefile.msc.config
 
 ##
 # Target
-TARGET=libwimp.dll
+TARGET=libms-windows-engine.dll
 
 OBJS = \
-	wimp_style.obj \
-	wimp_theme_main.obj \
-	wimp_rc_style.obj \
+	msw_style.obj \
+	msw_theme_main.obj \
+	msw_rc_style.obj \
 	xp_theme.obj
 
 ##
@@ -65,7 +65,7 @@ $(TARGET): $(OBJS)
 	link $(LDFLAGS) $(LIBS) /OUT:$@ $(OBJS)
 
 install: $(TARGET)
-	copy libwimp.dll "$(INSTALL_DIR)"
+	copy $(TARGET) "$(INSTALL_DIR)"
 
 clean:
 	del *.obj *.dll *.exp *.lib
