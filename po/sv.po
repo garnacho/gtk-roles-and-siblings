@@ -3,14 +3,14 @@
 # Tomas Ögren <stric@ing.umu.se>, 1999.
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003, 2004.
 #
-# $Id: sv.po,v 1.124 2004/12/20 23:03:48 menthos Exp $
+# $Id: sv.po,v 1.125 2004/12/21 13:46:14 menthos Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gtk+\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-12-21 00:01+0100\n"
-"PO-Revision-Date: 2004-12-21 00:02+0100\n"
+"PO-Revision-Date: 2004-12-21 14:43+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -792,7 +792,7 @@ msgstr "Samla inte GDI-förfrågningar i en batch"
 #. Description of --no-wintab in --help output
 #: gdk/win32/gdkmain-win32.c:62
 msgid "Don't use the Wintab API for tablet support"
-msgstr "Använd inte Wintab-API:t för stöd av ritplattor"
+msgstr "Använd inte Wintab-API:t för stöd av ritbrädor"
 
 #. Description of --ignore-wintab in --help output
 #: gdk/win32/gdkmain-win32.c:64
