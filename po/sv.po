@@ -3,12 +3,12 @@
 # Tomas Ögren <stric@ing.umu.se>, 1999.
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002.
 #
-# $Id: sv.po,v 1.60 2002/04/01 22:32:33 menthos Exp $
+# $Id: sv.po,v 1.61 2002/04/02 12:10:52 timj Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gtk+\n"
-"POT-Creation-Date: 2002-04-02 00:30+0200\n"
+"POT-Creation-Date: 2002-04-02 13:13+0200\n"
 "PO-Revision-Date: 2002-04-02 00:30+0200\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
