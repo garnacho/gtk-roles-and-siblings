@@ -3,13 +3,13 @@
 # Tomas Ögren <stric@ing.umu.se>, 1999.
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003, 2004, 2005.
 #
-# $Id: sv.po,v 1.138 2005/08/24 06:29:03 matthiasc Exp $
+# $Id: sv.po,v 1.139 2005/08/24 18:22:17 matthiasc Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gtk+\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-08-24 01:38-0400\n"
+"POT-Creation-Date: 2005-08-24 13:34-0400\n"
 "PO-Revision-Date: 2005-01-23 16:55+0100\n"
 "Last-Translator: Christian Rose <menthos@menthos.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
