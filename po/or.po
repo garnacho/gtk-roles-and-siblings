@@ -2,8 +2,8 @@
 # Oriya translation of gtk+.HEAD.pot.
 # Copyright (C) 2005, 2006, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gtk+ package.
-# $Id: or.po,v 1.12 2006/08/01 08:07:15 sbehera Exp $
-# $Id: or.po,v 1.12 2006/08/01 08:07:15 sbehera Exp $
+# $Id: or.po,v 1.13 2006/08/10 09:47:59 sbehera Exp $
+# $Id: or.po,v 1.13 2006/08/10 09:47:59 sbehera Exp $
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2005.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2006.
 #
@@ -2118,7 +2118,7 @@ msgstr "ଅବିନ୍ଯାସ ପାଇଁ ଜି.ଟି.କେ.+ ତ୍ର�
 #.
 #: gtk/gtkmain.c:498
 msgid "default:LTR"
-msgstr "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ:LTR"
+msgstr "default:LTR"
 
 #: gtk/gtkmain.c:594
 msgid "GTK+ Options"
