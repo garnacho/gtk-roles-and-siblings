@@ -6,7 +6,7 @@
 # Stanislav Visnovsky <visnovsky@nenya.ms.mff.cuni.cz>, 2001,2002, 2004.
 # Marcel Telka <marcel@telka.sk>, 2005.
 #
-# $Id: sk.po,v 1.103 2006/07/24 02:01:55 matthiasc Exp $
+# $Id: sk.po,v 1.104 2006/08/15 15:01:42 matthiasc Exp $
 #
 msgid ""
 msgstr ""
@@ -4187,7 +4187,7 @@ msgstr ""
 
 #: gtk/gtktextbufferserialize.c:851
 #, c-format
-msgid "<%s> element has neither a \"name\" nor an \"id\" element"
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
 msgstr ""
 
 #: gtk/gtktextbufferserialize.c:938

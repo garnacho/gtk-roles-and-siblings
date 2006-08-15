@@ -2,8 +2,8 @@
 # Oriya translation of gtk+.HEAD.pot.
 # Copyright (C) 2005, 2006, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gtk+ package.
-# $Id: or.po,v 1.13 2006/08/10 09:47:59 sbehera Exp $
-# $Id: or.po,v 1.13 2006/08/10 09:47:59 sbehera Exp $
+# $Id: or.po,v 1.14 2006/08/15 15:01:37 matthiasc Exp $
+# $Id: or.po,v 1.14 2006/08/15 15:01:37 matthiasc Exp $
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2005.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2006.
 #
@@ -4102,7 +4102,7 @@ msgstr "<%s> ବସ୍ତୁ ନିକଟର ଅବୈଧ \"%s\" ପରିଚୟ
 
 #: gtk/gtktextbufferserialize.c:851
 #, c-format
-msgid "<%s> element has neither a \"name\" nor an \"id\" element"
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
 msgstr "<%s> ବସ୍ତୁ ନିକଟର ଗୋଟିଏ \"ନାମ\" କିମ୍ବା ଗୋଟିଏ \"ପରିଚୟ\" ବସ୍ତୁ ନାହିଁ"
 
 #: gtk/gtktextbufferserialize.c:938

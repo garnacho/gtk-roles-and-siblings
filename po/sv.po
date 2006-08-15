@@ -3,7 +3,7 @@
 # Tomas Ögren <stric@ing.umu.se>, 1999.
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003, 2004, 2005.
 #
-# $Id: sv.po,v 1.147 2006/07/24 02:02:00 matthiasc Exp $
+# $Id: sv.po,v 1.148 2006/08/15 15:01:48 matthiasc Exp $
 #
 msgid ""
 msgstr ""
@@ -4209,7 +4209,7 @@ msgstr ""
 
 #: gtk/gtktextbufferserialize.c:851
 #, c-format
-msgid "<%s> element has neither a \"name\" nor an \"id\" element"
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
 msgstr ""
 
 #: gtk/gtktextbufferserialize.c:938
