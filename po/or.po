@@ -2,8 +2,8 @@
 # Oriya translation of gtk+.HEAD.pot.
 # Copyright (C) 2005, 2006, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gtk+ package.
-# $Id: or.po,v 1.15 2006/08/18 04:33:41 matthiasc Exp $
-# $Id: or.po,v 1.15 2006/08/18 04:33:41 matthiasc Exp $
+# $Id: or.po,v 1.16 2006/09/22 16:11:00 matthiasc Exp $
+# $Id: or.po,v 1.16 2006/09/22 16:11:00 matthiasc Exp $
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2005.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2006.
 #
@@ -4298,3 +4298,6 @@ msgstr ""
 "'%s' ରେ କୌଣସି ପ୍ରସଙ୍ଗ ଅନୁକ୍ରମଣିକା ଫାଇଲ ନାହିଁ।\n"
 "ଯଦି ଆପଣ ପ୍ରକ୍ରୁତରେ ଏଠାରେ ଗୋଟିଏ ଚିତ୍ରସଙ୍କେତ କ୍ଯାଶେକୁ ସ୍ରୁଷ୍ଟି କରିବା ପାଇଁ ଚାହୁଁଛନ୍ତି, ତାହାହେଲେ--"
 "ignore-theme-index ନିର୍ଦ୍ଦେଶ କୁ ବ୍ଯବହାର କରନ୍ତୁ।\n"
+
+msgid "%1$s on %2$s"
+msgstr "%1$s %2$sରେ"

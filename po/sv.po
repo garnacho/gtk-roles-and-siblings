@@ -4,7 +4,7 @@
 # Tomas Ögren <stric@ing.umu.se>, 1999.
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003, 2004, 2005.
 #
-# $Id: sv.po,v 1.151 2006/08/20 14:38:05 dnylande Exp $
+# $Id: sv.po,v 1.152 2006/09/22 16:11:04 matthiasc Exp $
 #
 msgid ""
 msgstr ""
@@ -4387,3 +4387,6 @@ msgstr ""
 #~ msgid "Create _Folder"
 #~ msgstr "Skapa _mapp"
 
+
+msgid "%1$s on %2$s"
+msgstr "%1$s på %2$s"
