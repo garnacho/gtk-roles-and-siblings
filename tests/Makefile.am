@@ -65,6 +65,7 @@ noinst_PROGRAMS =  $(TEST_PROGS)	\
 	testspinbutton			\
 	teststatusicon			\
 	testtheme			\
+	testthemeanim			\
 	testtext			\
 	testtoolbar			\
 	stresstest-toolbar		\
@@ -144,6 +145,7 @@ testsocket_child_DEPENDENCIES = $(DEPS)
 testspinbutton_DEPENDENCIES = $(TEST_DEPS)
 teststatusicon_DEPENDENCIES = $(TEST_DEPS)
 testtheme_DEPENDENCIES = $(TEST_DEPS)
+testthemeanim_DEPENDENCIES = $(TEST_DEPS)
 testtext_DEPENDENCIES = $(TEST_DEPS)
 testtreeedit_DEPENDENCIES = $(DEPS)
 testtreemodel_DEPENDENCIES = $(DEPS)
@@ -212,6 +214,7 @@ testtreecolumns_LDADD = $(LDADDS)
 testtreecolumnsizing_LDADD = $(LDADDS)
 testtreesort_LDADD = $(LDADDS)
 testtheme_LDADD = $(LDADDS)
+testthemeanim_LDADD = $(LDADDS)
 testtext_LDADD = $(LDADDS)
 treestoretest_LDADD = $(LDADDS)
 testxinerama_LDADD = $(LDADDS)
@@ -259,6 +262,9 @@ testtreeview_SOURCES =	\
 
 testtheme_SOURCES =	\
 	testtheme.c
+
+testthemeanim_SOURCES =	\
+	testthemeanim.c
 
 testtext_SOURCES =	\
 	prop-editor.c	\
